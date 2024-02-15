@@ -1,2 +1,1 @@
-##
-# height/depth of a binary tree.
+### height/depth of a binary tree.
